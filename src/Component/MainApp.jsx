@@ -231,8 +231,6 @@ function MainApp() {
           <DateContent />
         </div>
       </div>
-
-      <div>E</div>
     </div>
   );
 }
